@@ -1,0 +1,12 @@
+/Users/aibaryou/Desktop/VScode/bin/Debug/netcoreapp3.1/VScode.deps.json
+/Users/aibaryou/Desktop/VScode/bin/Debug/netcoreapp3.1/VScode.runtimeconfig.json
+/Users/aibaryou/Desktop/VScode/bin/Debug/netcoreapp3.1/VScode.runtimeconfig.dev.json
+/Users/aibaryou/Desktop/VScode/bin/Debug/netcoreapp3.1/VScode.dll
+/Users/aibaryou/Desktop/VScode/bin/Debug/netcoreapp3.1/VScode.pdb
+/Users/aibaryou/Desktop/VScode/obj/Debug/netcoreapp3.1/VScode.csprojAssemblyReference.cache
+/Users/aibaryou/Desktop/VScode/obj/Debug/netcoreapp3.1/VScode.AssemblyInfoInputs.cache
+/Users/aibaryou/Desktop/VScode/obj/Debug/netcoreapp3.1/VScode.AssemblyInfo.cs
+/Users/aibaryou/Desktop/VScode/obj/Debug/netcoreapp3.1/VScode.csproj.CoreCompileInputs.cache
+/Users/aibaryou/Desktop/VScode/obj/Debug/netcoreapp3.1/VScode.dll
+/Users/aibaryou/Desktop/VScode/obj/Debug/netcoreapp3.1/VScode.pdb
+/Users/aibaryou/Desktop/VScode/obj/Debug/netcoreapp3.1/VScode.genruntimeconfig.cache
